@@ -4,8 +4,6 @@
 void BUBBLE_SORT();
 void SELECTION_SORT();
 void INSERTION_SORT();
-void QUICK_SORT();
-void MERGE_SORT();
 int a[]={9,5,2,10,1}; 
 
 void main()
